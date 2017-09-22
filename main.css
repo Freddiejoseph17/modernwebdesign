@@ -37,3 +37,22 @@ h2{
   font-weight:20;
 }
   
+.about{
+  display: inline-block;
+  width:200px;
+  padding: 10px;
+  color: #fff;
+  border: 4px solid #fff;
+  text-align: center;
+  outline: none;
+  text-decoration: none;
+  transition: background-color 0.2 ease out, color 0.2s ease out;
+  
+  .nav:hover,.nav:active{
+    background-color: #fff;
+    color: #000;
+    transition: background-color 0.3s ease-in, color 0.3s ease-in;
+  }
+  
+  
+}
