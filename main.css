@@ -47,7 +47,8 @@ h2{
   outline: none;
   text-decoration: none;
   transition: background-color 0.2 ease out, color 0.2s ease out;
-  
+}
+
   .about:hover,.about:active{
     background-color: #fff;
     color: #000;
@@ -68,5 +69,4 @@ h2{
       h2{font-size:1.4em;
       }
   }
-      {
-    }
+  
