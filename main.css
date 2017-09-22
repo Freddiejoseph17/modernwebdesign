@@ -7,7 +7,7 @@ body{
   width:100%;
 }
 .banner{
-  background-image: url(34356027583_f4a245c053_b.jpg);
+  background-image: url(../image/34356027583_f4a245c053_b.jpg);
   height:70%;
   background-position:center;
   background-repeat: no-repeat;
@@ -24,4 +24,16 @@ body{
   margin-top: 200px;
 }
   
+hi{
+  font-size 7em;
+  font-family: "Hind Siliguri", sans-serif;
+}
+
+h2{
+  margin-top: -17px;
+  font-family: "Hind Siliguri", sans-serif;
+  font-size: 1.7em;
+  text-align: center;
+  font-weight:20;
+}
   
