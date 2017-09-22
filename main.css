@@ -56,7 +56,7 @@ h2{
   }
   
   @media only screen and (max-width: 920px){
-    .inner-banner{
+    .banner{
       margin-top: 100px;
     }
   }
@@ -64,9 +64,11 @@ h2{
     .inner-banner{
       margin-top: 150px;
       }
-      h1{font-size: 53m;
+      h1{
+        font-size: 53m;
       }
-      h2{font-size:1.4em;
+      h2{
+        font-size: 1.4em;
       }
   }
   
