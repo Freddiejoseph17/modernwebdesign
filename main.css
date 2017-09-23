@@ -1,11 +1,11 @@
 *{
-  margin: 0;
-  height: 80%;
+ box-sizing: border-box;
 }
 
-body{
-  width:100%;
+body {
+  margin: 0;
 }
+
 .banner{
   background-image: url(34356027583_f4a245c053_b.jpg);
   height:70%;
