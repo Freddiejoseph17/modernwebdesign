@@ -55,20 +55,5 @@ h2{
     transition: background-color 0.3s ease-in, color 0.3s ease-in;
   }
   
-  @media only screen and (max-width: 920px){
-    .banner{
-      margin-top: 100px;
-    }
-  }
-    @media only screen and (max-width: 540px){
-    .inner-banner{
-      margin-top: 150px;
-      }
-      h1{
-        font-size: 53m;
-      }
-      h2{
-        font-size: 1.4em;
-      }
-  }
+
   
