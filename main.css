@@ -30,7 +30,12 @@ body {
 
 .banner{
   background: url(34356027583_f4a245c053_b.jpg);
-  height: auto;
+  Padding: 20px;  
+  height: 50%;
+  background-position:center;
+  background-repeat: no-repeat;
+  background-size:cover;
+  position:relative;  
 }
 
 .inner-banner{
