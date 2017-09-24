@@ -33,9 +33,9 @@ body {
 }
 
 .banner{
-  background-image: url(../image/34356027583_f4a245c053_b.jpg);
+  background: url(34356027583_f4a245c053_b.jpg);
   padding: 10px;
-  height:200px;
+  height: auto;
   background-position:center;
   background-repeat: no-repeat;
   background-size:cover;
