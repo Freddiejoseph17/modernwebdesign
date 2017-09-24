@@ -33,6 +33,7 @@ body {
 
 .banner{
   background-image: url(10_cupofcoffee.png);
+  background-repeat: no repeat;   
     width: 100%;
     position: fixed;
     top: 100px;
