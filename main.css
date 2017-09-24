@@ -34,6 +34,9 @@ body {
   background-repeat: no-repeat;
   width: fill area;
   height: fill area;
+  background-position:center;
+  background-size:contain;
+  position:relative;  
   }
 
 .inner-banner{
