@@ -3,7 +3,7 @@ html {
 }
 
 body {
-  margin: 0;
+  height:100%; 
 }
 
 /* Style the top navigation bar */
@@ -32,11 +32,11 @@ body {
 .banner{
   background: url(34356027583_f4a245c053_b.jpg);
   background-repeat: no-repeat;
-   width: 1000px;
-   border: 1px solid #ff0000;
-   margin: 0 auto;
-   height: 100%;
-   min-height: 100%; 
+  width: 1000px;
+  border: 1px solid #ff0000;
+  margin: 0 auto;
+  height: 100%;
+  min-height: 100%; 
   }
 
 .inner-banner{
