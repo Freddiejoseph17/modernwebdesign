@@ -34,7 +34,7 @@ body {
 .banner{
   background-image: url(10_cupofcoffee.png);
   background-repeat: no repeat;   
-  background-size: cover;	
+  background-size: contain;	
     width: 100%;
     position: fixed;
     top: 100px;
@@ -43,7 +43,7 @@ body {
   }
 
 .inner-banner{
-  text-align:center;
+text-align: -webkit-center;
   position: absolute;
   width:100%;
   color: black;
