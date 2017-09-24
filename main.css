@@ -31,16 +31,13 @@ body {
 
 .banner{
   background: url(34356027583_f4a245c053_b.jpg);
-   background-repeat: no-repeat;
-    background-size: contain;
-   width: fill area;
-   height: fill area;
-  background-position:center;
   background-repeat: no-repeat;
+  background-size: contain;
+  width: fill area;
+  height: fill area;
+  background-position:center;
   background-size:cover;
-  position:relative;
-  padding: 10px;
-}
+ }
 
 .inner-banner{
   text-align:center;
