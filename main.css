@@ -31,21 +31,18 @@ body {
 }
 
 .banner{
-  background: url(34356027583_f4a245c053_b.jpg);
+  background-image: url(34356027583_f4a245c053_b.jpg);
+  height:70%;
+  background-position:center;
   background-repeat: no-repeat;
-  width: 100%;
-    min-height: 100%;
-    padding-top: 100px;
-    padding-bottom: 100px;
-    box-sizing: border-box; /* include the padding in the height */
-    -moz-box-sizing: border-box;
-  }
+  background-size:contain;
+  position:relative;
+}
 
 .inner-banner{
   text-align:center;
   position: absolute;
   width:100%;
-  height: 200px;  
   color: white;
   height:auto;
   margin-top: 200px;
