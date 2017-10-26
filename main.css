@@ -104,7 +104,9 @@ footer {
 	width: 100%;
 	position: relative;
 	top: 400px;
-	height: 1500px; 
+	height: 1500px;
+	padding-left: 50px;
+	padding-right: 50px;
 }
 
 .coffee-header {
